@@ -6,7 +6,7 @@ const ContactMe = () => {
   return (
     <Layout>
       <h1>Contact</h1>
-      <p>Twitter: <a href='https://twitter.com/Thetrueori' target='_blank'>The True Ori</a></p>
+      <p>Twitter: <a href='https://twitter.com/Thetrueori' target='_blank'>@The True Ori</a></p>
     </Layout>
   )
 }
