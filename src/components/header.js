@@ -7,12 +7,12 @@ import * as headerStyles from './header.module.scss'
 const Header = () => {
   const data = useStaticQuery(graphql`
     query {
-    site {
-      siteMetadata {
-        title
+      site {
+        siteMetadata {
+          title
+        }
       }
     }
-  }
   `)
 
   return (
