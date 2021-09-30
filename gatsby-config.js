@@ -1,8 +1,7 @@
 module.exports = {
-  /* Your site config here */
   siteMetadata: {
-    title: "gatsby website",
-    author: 'Piotr Slezak'
+    title: "ori's portfolio",
+    author: 'Piotr Ślęzak'
   },
   plugins: [
     'gatsby-plugin-sass'
